@@ -5,7 +5,9 @@ NYC Taxi trips, OpenAQ air quality, World Bank GDP and ECB USD/EUR rates, with a
 
 **Report (public):** https://app.powerbi.com/view?r=eyJrIjoiODVlNTAyZmYtNTI4NC00M2NjLTlkOTMtNGVjNjBmOWI2MjllIiwidCI6ImMzODBiYTg4LTg4MzQtNGIwNy04ZGU4LWYxYTI3MzlmMDZlNSJ9
 
-**Video demo:** <link>
+**Report (PDF):** [docs/report.pdf](docs/report.pdf)
+
+**Video demo:** https://youtu.be/fpzcrQTl9mA
 
 ## Why Databricks instead of Microsoft Fabric
 
